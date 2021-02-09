@@ -15,7 +15,6 @@ In this lab, you will:
 * Explore your App
 * Expose your app publicly
 * Monitor your Kubernetes Cluster and the deployed App
-* Create a Function Application
 * Clean up the deployments
 
 ### Prerequisites

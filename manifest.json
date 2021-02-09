@@ -1,10 +1,29 @@
 {
-    "workshoptitle": "RMOUG 2021 workshop on GitHub",
+    "workshoptitle": "RMOUG Virtual Training Days 2021: Microservices on Managed Kubernetes",
     "tutorials": [
         {
-            "title": "Welcome!",
-            "description": "This is the landing page for the workshop",
-            "filename": "README.md"
+            "title": "Introduction",
+            "filename": "intro/intro.md"
+        },
+        {
+            "title": "Prerequisites",
+            "filename": "common/labs/cloud-login/pre-register-free-tier-account.md"
+        },
+        {
+            "title": "Lab 1: Setup Cloud Environment",
+            "filename": "common/labs/setup-cloud-env/setup-cloud-env.md"
+        },
+        {
+            "title": "Lab 2: Deploy the Microservices App",
+            "filename": "labs/deploy/deploy.md"
+        },
+        {
+            "title": "Lab 3: Monitoring the deployment",
+            "filename": "labs/observability/monitoring.md"
+        },
+        {
+            "title": "Lab 5: Clean Up",
+            "filename": "labs/cleanup/cleanup.md"
         }
     ]
 }
