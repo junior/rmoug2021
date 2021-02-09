@@ -307,7 +307,7 @@ You can use these commands to see when applications were deployed, what their cu
 
     *Note:* You can also start a `bash` session on the Pod's container, just change the `ls` to `bash`. Remember that you need to type `exit` to exit the bash session.
 
-![Rocky](common/rmoug2021-hol/img/rocky-transparent.png)
+![Rocky](../../common/rmoug2021-hol/img/rocky-transparent.png)
 
 ## **STEP 6**: Under the Hood
 
