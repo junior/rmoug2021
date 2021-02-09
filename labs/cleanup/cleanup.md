@@ -69,12 +69,6 @@ Estimated time: 10 minutes
 
 This action will delete the Kubernetes Cluster and the Node Pool, terminating the worker nodes Compute Instances
 
-## **STEP 5**: Remove Functions and Applications
-
-1. *Functions and Applications:* Navigate to **Developer Services -> Functions -> Applications** and delete the desired Application
-
-1. *Containers:* Navigate to **Developer Services -> Container Registry** and delete the container image used on the functions lab
-
 ## Acknowledgements
 
 - **Author** - Adao Junior
