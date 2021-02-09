@@ -1,0 +1,10 @@
+{
+    "workshoptitle": "RMOUG 2021 workshop on GitHub",
+    "tutorials": [
+        {
+            "title": "Welcome!",
+            "description": "This is the landing page for the workshop",
+            "filename": "README.md"
+        }
+    ]
+}
