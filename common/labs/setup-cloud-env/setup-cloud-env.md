@@ -18,9 +18,6 @@ Estimated time: 20 minutes
 - Your Oracle Cloud Trial Account
 - You have already applied for and received your Oracle Cloud Free Tier Account.
 
-*In addition to the workshop*, feel free to watch the walkthrough companion video by clicking on the following image:
-[](youtube:wIoLDX7iWXo?start=0&end=60)
-
 ## **STEP 1:** Log into OCI Tenancy
 
    Log in to your OCI dashboard and retrieve information required to create resources.
