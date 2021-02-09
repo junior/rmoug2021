@@ -25,24 +25,6 @@ Estimated time: 20 minutes
 
    Log in to your OCI dashboard and retrieve information required to create resources.
 
-1. From any browser go to oracle.com to access the Oracle Cloud.
-
-    [https://www.oracle.com/](https://www.oracle.com/)
-
-  ![Login Screen](images/login-screen.png " ")
-
-1. Click the icon in the upper right corner.  Click on **Sign in to Cloud**.
-
-  ![Signup](images/signup.png " ")
-
-1. Enter your **Cloud Account Name** in the input field and click the **Next** button.  *NOTE: this is NOT your email. This is the name of your tenancy noted in the email you received during signup. Do NOT click the Sign-In button, this will take you to Single Sign-On, not the Oracle Cloud.*
-
-  ![Cloud Login](images/cloud-login-tenant.png " ")
-
-1. Enter your username (this may be your email address) and password and click on **Sign In**.  
-
-  ![Username](images/username.png " ")
-
 1. Once you log in you will see a page similar to the one below. Click on "Infrastructure Dashboard."
 
   ![Landing Screen](images/landingScreen2.png " ")

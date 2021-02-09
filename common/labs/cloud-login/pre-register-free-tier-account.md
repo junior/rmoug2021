@@ -74,23 +74,19 @@ If you already have a cloud account, skip to **STEP 2**.
 
 If you've signed out of the Oracle Cloud, use these steps to sign back in.
 
-1. Go to [cloud.oracle.com](https://cloud.oracle.com) and click the **View Accounts** button.
+1. Go to [cloud.oracle.com](https://cloud.oracle.com)  and Enter your Cloud Account Name and click **Next**. This is the name you chose while creating your account in the previous section. It's NOT your email address. If you've forgotten the name, see the confirmation email.
 
     ![](images/cloud-oracle.png " ")
 
-2. Click **Sign in to Cloud**.
-
-    ![](images/signin-to-cloud.png " ")
-
-3. Enter your Cloud Account Name and click **Next**. This is the name you chose while creating your account in the previous section. It's NOT your email address. If you've forgotten the name, see the confirmation email.
+2. Expand the arrow after _"Oracle Cloud Infrastructure Direct Sign-In"_ to reveal the login input fields.
 
     ![](images/cloud-login-tenant.png " ")
 
-4. Enter your Cloud Account credentials and click **Sign In**. Your username is your email address. The password is what you chose when you signed up for an account.
+3. Enter your Cloud Account credentials and click **Sign In**. Your username is your email address. The password is what you chose when you signed up for an account.
 
     ![](images/oci-signin.png " ")
 
-5. You are now signed in to Oracle Cloud!
+4. You are now signed in to Oracle Cloud!
 
     ![](images/oci-console-home-page.png " ")
 
@@ -99,7 +95,7 @@ You may now [proceed to the next lab](#next).
 ## **Acknowledgements**
 
 - **Created By/Date** - Tom McGinn, Database Innovations Architect, Database Product Management, March 2020
-- **Last Updated By/Date** - John Peach, Kamryn Vinson, Database Product Management, November 2020
+- **Last Updated By/Date** - Adao Junior - Feb 2021
 
 ## Need Help?
 Please submit feedback or ask for help using our [Oracle Community Forum](https://community.oracle.com/tech/developers/). Please click the **Log In** button and login using your Oracle Account. Click the **Ask A Question** button to the left to start a *New Discussion* or *Ask a Question*.  Please include your workshop name and lab name.  You can also include screenshots and attach files.  Engage directly with the author of the workshop.
